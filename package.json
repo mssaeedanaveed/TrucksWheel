@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "node-fetch": "^3.3.2",
-    "tough-cookie": "^6.0.0"
-  }
-}
